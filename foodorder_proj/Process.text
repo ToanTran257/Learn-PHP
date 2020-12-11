@@ -1,0 +1,11 @@
+1. HTML CSS for Basic layout (sections: wrapper, container, footer, main...)
+
+2. Breakdown each section with include
+
+3. Break down function for each actions
+
+4. Store data connections and Global Constants in config/constants.php
+
+5. Start Session at the beginning: session_start()
+
+6. 
